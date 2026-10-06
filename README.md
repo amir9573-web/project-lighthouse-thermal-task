@@ -22,7 +22,7 @@ The reference entry point writes `/app/output/result.json` and `/app/output/fore
 
 Read solution_explanation.md for scientific reasoning and the dependency depth audit. DECLARATION.md records assistance and the review still required from the contributor. Contributor Guidelines were not supplied, so their additional metadata or declaration requirements remain unchecked.
 
-Do not circulate the solution outside the assessment. Create a private GitHub repository, invite the Hurix reviewers, and share its URL with your contact. If a public repository is expressly required for access, follow Hurix's visibility instructions and make it private when requested. No GitHub repository has been created by this package.
+Do not circulate the solution outside the assessment. Create a private GitHub repository, invite the Hurix reviewers, and share its URL with your contact. If a public repository is expressly required for access, follow Hurix's visibility instructions and make it private when requested. The package is uploaded to the private repository https://github.com/amir9573-web/project-lighthouse-thermal-task. Reviewer access and delivery of the URL to Hurix remain outstanding.
 
 ## Technical references
 

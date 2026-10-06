@@ -54,4 +54,4 @@ harbor run -p tasks/engineering/thermal-systems/pulsed-cooling-identification -a
 harbor run -p tasks/engineering/thermal-systems/pulsed-cooling-identification -a nop
 ```
 
-Record the actual terminal output and confirm Oracle mean 1.000 and NOP mean 0.000 before submission. Preserve job logs outside the task package. Resolve any build or container discrepancies and rerun both trials. Review the unavailable Contributor Guidelines and complete the contributor declaration. GitHub publication and reviewer access remain outstanding as well.
+Record the actual terminal output and confirm Oracle mean 1.000 and NOP mean 0.000 before submission. Preserve job logs outside the task package. Resolve any build or container discrepancies and rerun both trials. Review the unavailable Contributor Guidelines and complete the contributor declaration. GitHub upload is complete at https://github.com/amir9573-web/project-lighthouse-thermal-task and the repository is private. Reviewer access and delivery of the URL to Hurix remain outstanding.
