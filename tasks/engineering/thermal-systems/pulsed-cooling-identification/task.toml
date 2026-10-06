@@ -1,0 +1,22 @@
+schema_version = "1.3"
+
+[metadata]
+category = "engineering"
+subcategory = "thermal-systems"
+tags = ["inverse-problems", "system-identification", "thermal-design", "uncertainty"]
+difficulty = "hard"
+difficulty_explanation = "Coupled transient identification with discrete actuator delay, calibration, masked channels, independently held-out experiments, uncertainty and a constrained operating envelope. Difficulty has not been measured with agent trials."
+expert_time_estimate_min = 180
+
+[agent]
+timeout_sec = 1800
+
+[verifier]
+timeout_sec = 900
+
+[environment]
+build_timeout_sec = 900
+cpus = 2
+memory_mb = 4096
+storage_mb = 4096
+network_mode = "no-network"

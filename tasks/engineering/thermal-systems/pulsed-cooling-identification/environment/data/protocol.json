@@ -1,0 +1,50 @@
+{
+  "training_runs": [
+    "run-a",
+    "run-b",
+    "run-c",
+    "run-d"
+  ],
+  "validation_runs": [
+    "run-e",
+    "run-f"
+  ],
+  "initial_C": {
+    "run-a": [
+      23.0,
+      23.0
+    ],
+    "run-b": [
+      23.7,
+      23.7
+    ],
+    "run-c": [
+      24.4,
+      24.4
+    ],
+    "run-d": [
+      25.1,
+      25.1
+    ],
+    "run-e": [
+      25.8,
+      25.8
+    ],
+    "run-f": [
+      26.5,
+      26.5
+    ]
+  },
+  "noise_C": 0.08,
+  "delay_samples": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cycle_initial_C": [
+    28.0,
+    28.0
+  ],
+  "core_limit_C": 65.0
+}
